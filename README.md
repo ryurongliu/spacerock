@@ -1,2 +1,1 @@
-# spacerock
-SPACEROCK: Music From a Metal World
+# SPACEROCK: Music From a Metal World
